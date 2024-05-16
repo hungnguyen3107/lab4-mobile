@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_intro_title">Introduction to Android</string>
+    <string name="android_intro_content">
+        Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software. It is designed primarily for touchscreen mobile devices such as smartphones and tablets.
+        <br/><br/>
+        Key points about Android:
+        <ul>
+            <li>Android Inc. was founded in Palo Alto, California, in October 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White.</li>
+            <li>Initially, Android aimed to develop an operating system for digital cameras but later shifted its focus to smartphones.</li>
+            <li>Google acquired Android Inc. in 2005.</li>
+            <li>The first commercial Android device, the HTC Dream, was launched in September 2008.</li>
+            <li>Android is developed by a consortium of developers known as the Open Handset Alliance.</li>
+            <li>At its core, Android is known as the Android Open Source Project (AOSP) and is free and open-source software (FOSS).</li>
+            <li>Most devices run on the proprietary Android version developed by Google, which includes additional closed-source software (Google Mobile Services).</li>
+        </ul>
+    </string>
+</resources>
